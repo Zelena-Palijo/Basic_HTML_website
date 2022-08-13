@@ -24,7 +24,7 @@ h1,h2,h3,h4,h5,h6{
   font-family:'Open Sans',sans-serif;
 }
 h1{
-  light-height:50px;
+  line-height:50px;
   font-weight:900;
   font-size:30px;
   text-transform:uppercase;
@@ -43,7 +43,7 @@ h1::after{ /*This is the underline*/
 }
 h2{
   line-height:50px;
-  color:#E91C1C1;
+  color:#E91C1C;
 }
 h3{
   line-height:30px;
@@ -197,7 +197,7 @@ CONTACT STYLES
 .reservation h2{
   width:70%;
   text-align:center;
-  margin 0 auto;
+  margin: 0px auto;
   color:#13161B;
   font-weight:500;
   font-size:1.3em;
@@ -251,7 +251,7 @@ CONTACT STYLES
   box-shadow:inset 0px 3px 0px 0px rgba(5,5,5,0.15);
   font-family:'Raleway', sans-serif;
 }
-.reservation input[type-"text"]:hover{
+.reservation input[type="text"]:hover{
   box-shadow:0 0 18px rgba(100,65,0,.8);
 }
 
@@ -290,13 +290,13 @@ CONTACT STYLES
   font-size:18px;
   transition:border-color 0.3s color 0.3s background-color 0.3s;
   border-radius:7px;
-  backgorund-color:#797a7b;
+  background-color:#797a7b;
   box-shadow:1px 1px 4px 0 rgba(0,0,0,0.3);
 }
 .submit input[type="submit"]:hover{
   color:#000;
   background-color:#8D8E8F;
-  box-shadow:inset 1px 2px 15px 0 rgba(0,0,0,0.5;)
+  box-shadow:inset 1px 2px 15px 0 rgba(0,0,0,0.5);
 }
 
 /* -----
