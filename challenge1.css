@@ -1,3 +1,18 @@
 img{
-  filter:saturate(2%);
+  filter:saturate(42%);
+}
+
+.center{
+  display:block;
+  margin-left:auto;
+  margin-right:auto;
+  width:50%;
+}
+
+.center{
+  border-radius:25px;
+  background:#FF1493;
+  padding:20px;
+  width:200px;
+  height:150px;
 }
