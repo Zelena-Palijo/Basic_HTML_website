@@ -16,3 +16,11 @@ img{
   width:200px;
   height:150px;
 }
+
+div{
+  text-align:center;
+}
+
+footer p{
+  font-weight:bold;
+}
