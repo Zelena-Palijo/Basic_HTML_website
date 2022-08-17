@@ -21,6 +21,17 @@ div{
   text-align:center;
 }
 
+.container{
+  position:relative;
+  text-align:center;
+  color:white;
+}
+
+.top-right{
+  position:absolute;
+  top:8px;
+  right:16px;
+}
 
 table, th,td{
   border:2px solid;
